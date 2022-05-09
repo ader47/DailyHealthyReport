@@ -149,7 +149,7 @@ bro.set_script_timeout(8)
 
 #mysql参数
 
-SQL_HOST='localhost‘
+SQL_HOST='localhost'
 SQL_USER = '******'
 SQL_PWD = '*****'
 SQL_DB = '************'
